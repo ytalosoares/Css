@@ -1,0 +1,127 @@
+*{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+header{
+    
+   margin-top: 47px;
+   margin-left: 42px;
+    display:flex
+
+    
+}
+
+.fonte{
+
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align:21px ;
+    letter-spacing: 0.875px;
+    color: #17233D;
+    margin-right: 32px;
+    cursor: pointer;
+
+   
+    
+}
+
+main{
+    display: inline-block
+}
+img{
+  
+    margin-top: 163px;
+    margin-left: 123px;
+    display: inline-block;
+ 
+
+}
+    
+
+div{
+    display: inline-block;
+    margin-left: 250px;
+    width: 500px;
+    
+    
+}
+
+    
+h1{
+
+font-weight: 700;
+font-size: 62px;
+line-height: 82px;
+letter-spacing: 0.6px;
+color: #161a49;
+
+
+    
+}
+    
+
+p{
+    
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+letter-spacing: 0.5px;
+color: #4b505a;
+margin-top: 47px;
+margin-bottom: 55px;
+    
+ 
+  
+}
+
+.button1{
+
+    background:#6f8f44 ;
+    border: 1px solid #4cb538;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: white;
+
+    
+    
+}
+
+.caixa-button-2{
+
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6fbf44;
+    cursor: pointer;
+    border-radius: 1px;
+   
+
+    
+}
+
+
+
+
+img{
+  
+    margin-top: 163px;
+    margin-left: 123px;
+    display: inline-block;
+
+    
+
+}
+ 

@@ -1,0 +1,60 @@
+
+/*{
+   
+    box-sizing: border-box; /*matem o tamanho da caixa fixo
+    box-sizing: contente-box a caixa vai crecendo conforme se acrescenta algo*/
+}
+
+/*h1{
+ color: #F0F8FF; /* troca a cor do texto*/
+ font-size: 35px;
+ font-weight: 100;
+ background: #B0C4DE;
+ font-style:italic;
+ margin-top: 50px;     /* espaçamento esterno da div(caixa)*/
+ margin-bottom: 50px;
+ padding-top: 25px;   /* coloca o espaçamento da div (caixa)*/
+ border:10px, solid, #B0C4DE ;
+ text-align: center;
+ text-shadow: 10px 10px 20px rgb(81, 81, 91);  /*coloca sombra no texto são 4 parametros
+ horizontal ex(10px) vertical, esfumaçar a sombra, e cor da sombra*/
+
+}
+
+/*p{
+    color: rgb(16, 22, 20); /* muda a cor*/
+    font-size: 25px; /* muda a espessura da fonte*/
+    font-weight: bolder; /*muda a grossura da font*/
+    font-family:'Roboto' sans-serif; /* muda a fonte do texto*/
+    font-style:italic; /*muda o estilo da font*/
+    line-height: 40px; /*muda a altura das linhas*/
+    letter-spacing: 2px;/*muda o espaçamento entres as letras*/
+    word-spacing: 2px;/*muda o espaçamento entres as palavras*/
+    text-align: justify; /*alinhamento do texto*/
+   text-transform:capitalize; /*modificação das letras em minuscula ou maiuscula*/
+   text-decoration: underline ;/*coloca anderline no texto, overline*/
+}
+
+/*.box{
+    background: #28288e;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 40px 50px 30px 30px;
+    padding: 15px;
+ 
+    
+    
+}
+
+.box-2 {
+
+    background: #D2691E;
+   
+}
+
+.box-3{
+
+   background: #510a0a;
+   
+}
